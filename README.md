@@ -1,5 +1,5 @@
 # lnhnam
-Dự Án trang web bán sản phẩm cà phê giải khát
+Dự án trang web bán sản phẩm cà phê giải khát
 Đây là dự án đầu tay của mình trong quá trình học lập trình web với ASP.NET Core. 
 Dự án này tập trung vào việc quản lý danh sách sản phẩm và hiển thị thực đơn đồ uống.
 Giới thiệu
