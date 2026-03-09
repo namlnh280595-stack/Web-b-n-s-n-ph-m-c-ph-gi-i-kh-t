@@ -13,8 +13,7 @@ Database: Entity Framework (EF).
 Frontend: HTML, CSS, JavaScript.
 Quản lý mã nguồn: Git & GitHub.
 Cách chạy dự án trên máy cục bộ
-Tải mã nguồn: Nhấn vào nút Code -> Download ZIP hoặc dùng lệnh:
-Bash
+Tải mã nguồn
 git clone https://github.com/namlnh280595-stack/Web.git
 Chạy ứng dụng: Nhấn nút Start (phím tắt F5) để chạy trên IIS Express.
 Tác giả lnhnam
